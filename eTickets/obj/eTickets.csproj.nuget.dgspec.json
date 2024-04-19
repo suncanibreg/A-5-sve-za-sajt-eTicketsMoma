@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/maslacak111/Documents/RadimoDalje-od-18Jun2023/1 Samostalnim Radom Nashim Sajtovima ZAradjujemo i Pokazujemo Softverskim Preduzecima Sta mozemo/A-5-sve-za-sajt-eTicketsMoma/eTickets/eTickets.csproj": {}
+  },
+  "projects": {
+    "/home/maslacak111/Documents/RadimoDalje-od-18Jun2023/1 Samostalnim Radom Nashim Sajtovima ZAradjujemo i Pokazujemo Softverskim Preduzecima Sta mozemo/A-5-sve-za-sajt-eTicketsMoma/eTickets/eTickets.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/maslacak111/Documents/RadimoDalje-od-18Jun2023/1 Samostalnim Radom Nashim Sajtovima ZAradjujemo i Pokazujemo Softverskim Preduzecima Sta mozemo/A-5-sve-za-sajt-eTicketsMoma/eTickets/eTickets.csproj",
+        "projectName": "eTickets",
+        "projectPath": "/home/maslacak111/Documents/RadimoDalje-od-18Jun2023/1 Samostalnim Radom Nashim Sajtovima ZAradjujemo i Pokazujemo Softverskim Preduzecima Sta mozemo/A-5-sve-za-sajt-eTicketsMoma/eTickets/eTickets.csproj",
+        "packagesPath": "/home/maslacak111/.nuget/packages/",
+        "outputPath": "/home/maslacak111/Documents/RadimoDalje-od-18Jun2023/1 Samostalnim Radom Nashim Sajtovima ZAradjujemo i Pokazujemo Softverskim Preduzecima Sta mozemo/A-5-sve-za-sajt-eTicketsMoma/eTickets/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/maslacak111/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.128/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
